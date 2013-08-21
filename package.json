@@ -1,0 +1,11 @@
+{
+    "name": "once-many",
+    "version": "0.1.0",
+    "author": "Bogdan Mustiata <bogdan.mustiata@gmail.com>",
+    "description": "A library that provides a once-many iterator.",
+    "main": "lib/once-many",
+    "keywords": [
+        "once-many", "design", "pattern"
+    ],
+    "license": "MIT"
+}
