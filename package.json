@@ -7,5 +7,9 @@
     "keywords": [
         "once-many", "design", "pattern"
     ],
-    "license": "MIT"
+    "license": "MIT",
+    "repository" : {
+        "type" : "git",
+        "url": "https://github.com/bmustiata/once-many.git"
+    }
 }
